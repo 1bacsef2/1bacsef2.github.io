@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #07f207;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.whatsapp{
+  filter: drop-shadow(1 1 1.75rem #07f207);
+}
+a{
+  text-decoration:none;
+}
